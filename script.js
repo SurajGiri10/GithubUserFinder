@@ -161,5 +161,5 @@ function formatDate(dateString) {
   });
 }
 
-searchInput.value = "burakorkmez";
-searchUser();
+// searchInput.value = "";
+// searchUser();
